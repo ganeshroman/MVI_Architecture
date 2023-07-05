@@ -17,7 +17,6 @@
 - Coroutine
 - View Binding
 - RecyclerView
-- Card View
 - Live Data
 - Constraint Layout
 
@@ -87,7 +86,7 @@ def lifecycle_version = "2.2.0"
 
 
 
-<img src="https://raw.githubusercontent.com/ganeshroman/MVI_Architecture/master/mvi_project_diagram.png" width="250" height="500">
+<img src="https://raw.githubusercontent.com/ganeshroman/MVI_Architecture/master/mvi_project_diagram.png" width="250" height="450">
 
 
 #### Screenshots
