@@ -87,16 +87,13 @@ def lifecycle_version = "2.2.0"
 
 
 
-<img src="" width="250" height="450">
+<img src="https://raw.githubusercontent.com/ganeshroman/MVI_Architecture/master/mvi_project_diagram.png" width="250" height="500">
 
 
 #### Screenshots
 
 
-<img src="" width="250" height="450">
+<img src="https://raw.githubusercontent.com/ganeshroman/MVI_Architecture/master/Screenshot_20230705_132217.png" width="250" height="450">
 
-<img src="" width="250" height="450">
-
-<img src="" width="250" height="450">
 
 
