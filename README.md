@@ -7,7 +7,7 @@
 - **Last modified:** 5 July 2023 
 
 ## Feature
-- Retrieve and display a list of items from a RESTful API (https://5e510330f2c0d300147c034c.mockapi.io/).
+- Retrieve and display a list of items from a RESTful API (https://5e510330f2c0d300147c034c.mockapi.io/)..
 
 
 ### Technology Used
